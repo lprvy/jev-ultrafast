@@ -1,5 +1,7 @@
 <img src="docs/banner.svg" alt="Jev Ultrafast · Browser Use × TypeSafe" width="100%" />
 
+<p align="center">English · <a href="README.tr.md">Türkçe</a></p>
+
 > [!NOTE]
 > **Jev Ultrafast is now ultrafast mode in [Browser Use](https://github.com/browser-use/browser-use).** Same idea, built in: the agent acts on numbered page elements. Browser Use also handles long multi-step tasks.
 >
